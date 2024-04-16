@@ -118,7 +118,7 @@ public class Main {
 
     public static void sendEmail(String content) {
         final String fromEmail = "geo97class@gmail.com";
-        final String password = "pggx bjqa mkaw dbqu";
+        final String password = "";
         final String toEmail = "geo97class@gmail.com";
 
         Properties props = new Properties();
